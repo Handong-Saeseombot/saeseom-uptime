@@ -1,7 +1,7 @@
 url: https://saeseom-prod.llfe.handong.app/haksik
-status: up
-code: 200
-responseTime: 7725
-lastUpdated: 2026-10-03T01:29:30.081Z
+status: down
+code: 502
+responseTime: 3532
+lastUpdated: 2026-10-03T05:47:39.022Z
 startTime: 2025-04-29T16:06:55.429Z
 generator: Upptime <https://github.com/upptime/upptime>
