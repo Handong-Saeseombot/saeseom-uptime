@@ -4,17 +4,17 @@
     "url": "https://saeseom-prod.llfe.handong.app/haksik",
     "icon": "https://icons.duckduckgo.com/ip3/saeseom-prod.llfe.handong.app.ico",
     "slug": "saeseom-api-haksik",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "52.29%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "76.00%",
     "uptimeWeek": "60.93%",
-    "uptimeMonth": "88.76%",
+    "uptimeMonth": "88.75%",
     "uptimeYear": "99.02%",
-    "time": 831,
-    "timeDay": 1625,
-    "timeWeek": 3445,
-    "timeMonth": 1545,
-    "timeYear": 810,
+    "time": 837,
+    "timeDay": 2095,
+    "timeWeek": 3693,
+    "timeMonth": 1630,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2025-10-23": 217,
       "2026-09-22": 889,
@@ -22,7 +22,8 @@
       "2026-10-03": 732,
       "2026-10-06": 457,
       "2026-10-05": 1440,
-      "2026-10-04": 1308
+      "2026-10-04": 1308,
+      "2026-10-07": 0
     }
   }
 ]
